@@ -1,0 +1,2 @@
+# pyqt5_QtSerialPort_without_GUI
+pyqt5_QtSerialPort_without_GUI
